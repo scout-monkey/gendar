@@ -683,7 +683,7 @@ function GenDisplay(nL) {
     var simplePuzzlesText = [
       [255, 0, 0, 0, 0, 0, 0, 0, 0, "Gary Phillips","he/him"],
       [0, 255, 0, 0, 0, 0, 0, 0, 0, "Denise Halifax","she/her"],
-      [35, 155, 0, 0, 0, 0, 0, 0, 0, "UNKNOWN","she/her"]
+      [0, 155, 0, 0, 0, 0, 0, 0, 0, "UNKNOWN","she/her"]
     ];
     for (var i = 0; i < simplePuzzlesText.length; i++) {
       var puzz = new Character(simplePuzzlesText[i], [525, 50], 1.25);
