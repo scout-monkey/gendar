@@ -840,18 +840,18 @@ function GenDisplay(nL) {
       //console.log("CHECKING" + samp + " AND " + pC + "at index" + i);
       //console.log("comparing" + samp + " and "+pC);
       if (this.isAround(samp, pC, 20) == false && i<9) {
-        isMatch = false;
+        return false;
       } else {
         //console.log(i+"'S A MATCH");
       }
       if(i>8){ //checking the name and pronouns
         if(this.sameString(sample[i],pChar[i])==false){
-          isMatch = false;
+          return = false;
         }
       }
     }
     console.log("RESULT IS "+isMatch);
-    return isMatch;
+    return true;
   }
 
   this.isAround = function(v1,v2,bounds){
