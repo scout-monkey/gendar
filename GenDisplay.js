@@ -839,7 +839,7 @@ function GenDisplay(nL) {
       var pC = pChar[i];
       //console.log("CHECKING" + samp + " AND " + pC + "at index" + i);
       //console.log("comparing" + samp + " and "+pC);
-      if (this.isAround(samp, pC, 20) == false && i<9) {
+      if (this.isAround(samp, pC, 50) == false && i<9) {
         return false;
       } else {
         //console.log(i+"'S A MATCH");
