@@ -135,7 +135,7 @@ function GenDisplay(nL) {
                           ["This is not an insult but merely an indication of a relationship to an existing framework.",this.genMessageX,this.genMessageY,"moveOn"],
 
                           ["The term transgender, or trans*, means 'across gender' and refers to the individuals whose gender identities do not fit the dominant gender framework",this.genMessageX,this.genMessageY,"moveOn"],
-                          ["Trans* people typically fit many frameworks. But I have noticed that the unique thing the trans* people share in common...",this.genMessageX,this.genMessageY,"moveOn"],
+                          ["Trans* people typically fit many frameworks. But I have noticed that the unique thing that trans* people share in common...",this.genMessageX,this.genMessageY,"moveOn"],
                           ["...is their self-knowledge that they don't fit within the dominant gender framework.",this.genMessageX,this.genMessageY,"moveOn"],
                           ["Because of this, we often experience mild discomfort at best in public places, from stares and muttered comments...",this.genMessageX,this.genMessageY,"moveOn"],
                           ["...to outright discrimination and even violence.",this.genMessageX,this.genMessageY,"moveOn"],
@@ -170,7 +170,7 @@ function GenDisplay(nL) {
                           
                           ["I consider myself masculine. I love many thigns that have been associated with men in the past.",this.genMessageX,this.genMessageY,"moveOn"],
                           ["Fast paced sports. Action films. Video games. ",this.genMessageX,this.genMessageY,"moveOn"],
-                          ["And so do many AFAB(assigned female at birth) people of a variety of gender identities.",this.genMessageX,this.genMessageY,"moveOn"],
+                          ["And so do many AFAB(assigned female at birth) and intersex people of a variety of gender identities.",this.genMessageX,this.genMessageY,"moveOn"],
                           ["Because someone's expression doesn't have that much to do with their identity.",this.genMessageX,this.genMessageY,"moveOn"],
                           ["Unless you are applying your own gender to everyone else's... and making connections where they....",this.genMessageX,this.genMessageY,"moveOn"],
 
