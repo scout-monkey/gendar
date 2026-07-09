@@ -846,7 +846,7 @@ function GenDisplay(nL) {
       }
       if(i>8){ //checking the name and pronouns
         if(this.sameString(sample[i],pChar[i])==false){
-          return = false;
+          return false;
         }
       }
     }
